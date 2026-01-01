@@ -39,8 +39,25 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun-Kumar-228&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" height="155" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-Kumar-228&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="155" alt="languages graph" />
+<div align="center">
+
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-Kumar-228&theme=dracula&hide_border=true"
+      alt="Tharun's GitHub Streak"
+      height="170"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Tharun-Kumar-228&theme=dracula&no-frame=true&no-bg=true&margin-w=4"
+      alt="Tharun's GitHub Trophies"
+    />
+  </a>
+
 </div>
 
 ---

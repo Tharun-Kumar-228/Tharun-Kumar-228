@@ -39,24 +39,19 @@
 ---
 
 <div align="center">
-<div align="center">
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-Kumar-228&theme=dracula&hide_border=true"
-      alt="Tharun's GitHub Streak"
-      height="170"
-    />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=Tharun-Kumar-228&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 
   <br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=Tharun-Kumar-228&theme=dracula&no-frame=true&no-bg=true&margin-w=4"
-      alt="Tharun's GitHub Trophies"
-    />
-  </a>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Tharun-Kumar-228&theme=dracula&no-frame=true"
+    alt="GitHub Trophies"
+  />
 
 </div>
 
